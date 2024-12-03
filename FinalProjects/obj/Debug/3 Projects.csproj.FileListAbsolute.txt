@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\lecture22.v2\obj\Debug\3 Projects.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\lecture22.v2\obj\Debug\3 Projects.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lecture22.v2\bin\Debug\lecture22.v2.exe.config
+C:\Users\user\source\repos\lecture22.v2\bin\Debug\lecture22.v2.exe
+C:\Users\user\source\repos\lecture22.v2\bin\Debug\lecture22.v2.pdb
+C:\Users\user\source\repos\lecture22.v2\obj\Debug\lecture22.v2.exe
+C:\Users\user\source\repos\lecture22.v2\obj\Debug\lecture22.v2.pdb
+C:\Users\a.arabuli\Downloads\New Compressed (zipped) Folder\FinalProjects\obj\Debug\3 Projects.csproj.AssemblyReference.cache
+C:\Users\a.arabuli\Downloads\New Compressed (zipped) Folder\FinalProjects\obj\Debug\3 Projects.csproj.CoreCompileInputs.cache
+C:\Users\a.arabuli\Downloads\New Compressed (zipped) Folder\FinalProjects\obj\Debug\lecture22.v2.exe
+C:\Users\a.arabuli\Downloads\New Compressed (zipped) Folder\FinalProjects\obj\Debug\lecture22.v2.pdb
